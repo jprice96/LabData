@@ -1,0 +1,66 @@
+05-08-20	Aztreonam MIC (2 plates)
+			Conc. gradient (mg/mL) = 0.5, 0.25, 0.125, 0.075, 0.038, 0.019, 0.009, 0.005, 0.002, 0, (Control)
+			Wells were just diluted in half down the gradient
+			Final points were taken approx 24 hours after set up
+06-08-20	Imipenem Evolutionary Rescue P1 - P4
+			Conc. gradient (mg/mL) = 0.2, 0.15, 0.125, 0.1, 0.075, 0.05, 0.025, 0.01, 0.005, 0
+			Final points were taken approx 24 hours after set up
+13-08-20	Imipenem Evolutionary Rescue P5 - P8
+			Conc. gradient (mg/mL) = 0.2, 0.15, 0.125, 0.1, 0.075, 0.05, 0.025, 0.01, 0.005, 0
+			Final points were taken approx 24 hours after set up
+27-08-20	Imipenem Evolutionary Rescue P1 - P8 (replicate)
+			Conc. gradient (mg/mL) = 0.2, 0.15, 0.125, 0.1, 0.075, 0.05, 0.025, 0.01, 0.005, 0
+
+09-09-20	Imipenem MIC Assay (initial strains, plus EResc 5B, 6G, 7D)
+			Conc. gradient (mg/mL) = 0.5, 0.25, 0.125, 0.063, 0.031, 0.016, 0.008, 0.004, 0.002, 0
+			Wells were just diluted in half down the gradient
+17-09-20	Imipenem MIC Assay (initial strains, plus EResc 5B, 6G, 7D) (replicate)
+			Conc. gradient (mg/mL) = 0.5, 0.25, 0.125, 0.063, 0.031, 0.016, 0.008, 0.004, 0.002, 0
+
+21_25-09-20	Imipenem Evolutionary Rescue P1 - P10 [Second Run]
+			These were the samples that were then carried forward as the EResc lines
+			Conc. gradient (mg/mL) = 0.3, 0.2, 0.1, 0.05, 0.02, 0.01, 0.005, 0.002, 0.001, 0
+
+06-10-20	Mixed-drug MIC (both AZT and IMI)
+			Conc. gradient of each drug (mg/mL) = 0.5, 0.25, 0.125, 0.063, 0.031, 0.016, 0.008, 0.004, 0.002, 0
+			Demonstrating no cross-resistance in original strains
+
+---2021---
+
+18-05-21	Growth Assay
+			Rows alternate between AZT, IMI, and Mix (from row 2-8, A,I,M,A,I,M)
+			Conc. of each drug (no gradient along row)
+				Imipenem = 0.00125 mg/mL
+				Aztreonam = 1mg/mL
+26-05-21	Growth Assay
+			Repeat set up of above
+			I presume this was to further test for cross-resistance, I don't have written down why I performed these assays other than I was asked to do them
+
+03-06-21	Imipenem MIC (1 plate) and Aztreonam MIC (1 plate)
+			Imipenem conc. gradient (mg/mL) = 0.0128, 0.0064, 0.0032, 0.0016, 0.0008, 0.0004, 0.0002, 0.0001, 0.00005, 0
+			Aztreonam conc. gradient (mg/mL) = 15, 7.5, 3.25, 1.875, 0.9375, 0.4688, 0.2344, 0.118, 0.069, 0
+			Wells were just diluted by half down the gradient
+09-06-21	Imipenem MIC (1 plate) and Aztreonam MIC (1 plate)
+			Imipenem conc. gradient (mg/mL) = 0.0128, 0.0064, 0.0032, 0.0016, 0.0008, 0.0004, 0.0002, 0.0001, 0.00005, 0
+			Aztreonam conc. gradient (mg/mL) = 15, 7.5, 3.25, 1.875, 0.9375, 0.4688, 0.2344, 0.118, 0.069, 0
+
+15-06-21	[GA] Imipenem MIC (2 plates) Rows = {0,3,6,0,3,6}, triple replicates, layout described in book
+13-07-21	[GA] Imipenem MIC (3 plates, endpoint only) - produced the 0.006, 0.003, 0 bar plot figure, 0,3,6,0,3,6 triple repl layout in book
+17-08-21	[GA] Imipenem MIC (2 plates) and Aztreonam MIC (1 plate) 0,3,6 quad replfor Imi in book, [Azt] = {0, 0.4} col, triple repl, layout in book
+
+20-08-21	Imipenem MIC (1 plate)
+			Conc. gradient (mg/mL) = 1.6, 0.8, 0.4, 0.2, 0.1, 0.05, 0.025, 0.0125, 0.00625, 0
+			Rows = WT, PcS, PcW, F, B, D
+			Conc. grad might be backwards? data looks wrong way around
+			23-08-21 - Imipenem MIC (1 plate)
+					Conc. gradient (mg/mL) = 1.2, 1, 0.8, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0
+					Row: PcS, PcW, WT, 5B, 5D, 5F
+
+31-08-21	Imipenem MIC (1 plate)
+			Conc. grad (mg/L) = 4, 3, 2, 1, 0.625, 0.5, 0.375, 0.25, 0.125, 0
+			Rows: 5C, 5E, 5G, PcS, PcW, WT
+			Note: gradient is mg/L not mg/mL
+
+01-09-21	Imipenem MIC (1 plate)
+			Conc. grad (mg/L) = 7, 6, 5, 4, 3, 2, 1.5, 1, 0.5, 0
+			Rows: PcS, PcW, WT, 6B, 6D, 6F
